@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvarodev-lc&label=Profile%20views&color=8000ff&style=plastic" alt="alvarodev-lc" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alvarodev-lc" alt="alvarodev-lc" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=alvarodev-lc&theme=onedark)](https://github.com/alvarodev-lc/github-profile-trophy)
 
 - 👨‍💻 All of my projects are available at [https://alvarodev-lc.github.io/personal-website/](https://alvarodev-lc.github.io/personal-website/)
 
